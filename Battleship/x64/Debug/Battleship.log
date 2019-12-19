@@ -1,0 +1,4 @@
+﻿  PlayerAI.cpp
+C:\Users\Енот Гоша\Desktop\Battleship-master\Battleship\src\PlayerAI.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Енот Гоша\Desktop\Battleship-master\Battleship\src\PlayerAI.cpp(44,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Battleship.vcxproj -> C:\Users\Енот Гоша\Desktop\Battleship-master\x64\Debug\Battleship.exe
